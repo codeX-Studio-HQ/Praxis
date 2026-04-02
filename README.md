@@ -1,2 +1,28 @@
-# Praxis
-Roblox's most advanced physics-based sandbox experience. Praxis is a boundless playground built entirely on freedom and creativity.
+![FluxBoxLogo](./art/favicon2.ico)
+# Praxis (Beta v8.4)
+Made With ❤️ by **codeX** Studio
+> **Developer:** Wrenchiz  
+> **3D Artist:** Baddeaw  
+> **Discord:** 88wrench_iz  
+> **Discord:** baddeaw  
+> **Version:** Beta v8.4  
+> **Engine:** Roblox Engine  
+> **Live Open Beta:** [https://www.roblox.com/tr/games/116800707465068/Praxis#!/about](https://www.roblox.com/tr/games/116800707465068/Praxis#!/about)
+
+---
+
+![codeX Logo](./art/X_Transparan.png)
+
+# codeX Studio Official Site
+Made With ❤️ by **codeX** Studio
+
+> **Official Site:** [https://codexstudio.pages.dev/](https://codexstudio.pages.dev/)
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **CC BY-NC-ND 4.0** License. 
+See the [LICENSE](https://github.com/codeX-Studio-HQ/FluxBox?tab=License-1-ov-file) file for the full legal text.
+
+© 2026 codeX Studio
