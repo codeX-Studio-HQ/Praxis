@@ -1,4 +1,4 @@
-![FluxBoxLogo](./art/favicon2.ico)
+![PraxisLogo](./art/Praxis.png)
 # Praxis (Beta v8.4)
 Made With ❤️ by **codeX** Studio
 > **Developer:** Wrenchiz  
