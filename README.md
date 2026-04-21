@@ -7,7 +7,7 @@ Made With ❤️ by **codeX** Studio
 > **Discord:** baddeaw  
 > **Version:** Alpha v8.4  
 > **Engine:** Roblox Engine  
-> **Live Open Beta:** [https://www.roblox.com/tr/games/116800707465068/Praxis#!/about](https://www.roblox.com/tr/games/116800707465068/Praxis#!/about)
+> **Live Open Alpha:** [https://www.roblox.com/tr/games/116800707465068/Praxis#!/about](https://www.roblox.com/tr/games/116800707465068/Praxis#!/about)
 
 ---
 
