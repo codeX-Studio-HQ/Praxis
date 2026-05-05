@@ -11,7 +11,7 @@ Made With ❤️ by **codeX** Studio
 
 ---
 
-![codeX Logo](./art/X_Transparan.png)
+![codeX Logo](./art/favicon.ico)
 
 # codeX Studio Official Site
 Made With ❤️ by **codeX** Studio
