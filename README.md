@@ -1,4 +1,5 @@
-![PraxisLogo](./art/Praxis.png)
+<img src="art/Praxis.png" width="400" alt="PraxisLogo">
+
 # Praxis (Alpha v8.4)
 Made With ❤️ by **codeX** Studio
 > **Developer:** Wrenchiz  
