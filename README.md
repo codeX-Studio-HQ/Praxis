@@ -4,8 +4,6 @@
 Made With ❤️ by **codeX** Studio
 > **Developer:** Wrenchiz  
 > **3D Artist:** Baddeaw  
-> **Discord:** 88wrench_iz  
-> **Discord:** baddeaw  
 > **Version:** Alpha v8.4  
 > **Engine:** Roblox Engine  
 > **Live Open Alpha:** [https://www.roblox.com/tr/games/116800707465068/Praxis#!/about](https://www.roblox.com/tr/games/116800707465068/Praxis#!/about)
